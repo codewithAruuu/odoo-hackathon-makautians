@@ -77,7 +77,7 @@ HR Management/
 ├── src/
 │   ├── components/       # Reusable UI components
 │   ├── hooks/            # Custom React hooks
-│   ├── lio/              # Project utilities
+│   ├── lib/              # Project utilities
 │   ├── routes/           # TanStack Router route definitions
 │   ├── router.tsx        # Router configuration
 │   ├── routeTree.gen.ts  # Auto-generated route tree
