@@ -54,8 +54,14 @@
 |---|---|
 | ![Dashboard](./docs/dashboard.png) | ![Directory](./docs/directory.png) |
 -->
+<img width="1600" height="657" alt="WhatsApp Image 2026-07-05 at 18 27 30" src="https://github.com/user-attachments/assets/68bb17dc-9cad-4873-9060-d224037ac419" />
+<img width="1600" height="704" alt="WhatsApp Image 2026-07-05 at 18 28 31" src="https://github.com/user-attachments/assets/27725a43-c32c-4472-8ab7-224d53c4ca61" />
+<img width="1600" height="708" alt="WhatsApp Image 2026-07-05 at 18 29 48" src="https://github.com/user-attachments/assets/fef70609-ebe7-459e-9f2a-f6494ee8e595" />
+<img width="1600" height="705" alt="WhatsApp Image 2026-07-05 at 18 31 24" src="https://github.com/user-attachments/assets/91eabe25-e6b0-4947-8041-bba9bb863473" />
+<img width="1600" height="700" alt="WhatsApp Image 2026-07-05 at 18 43 22" src="https://github.com/user-attachments/assets/610566c4-b5f8-4e3c-9ffe-4d167b517e7f" />
+<img width="1600" height="697" alt="WhatsApp Image 2026-07-05 at 18 45 01" src="https://github.com/user-attachments/assets/7f0e9da5-628b-46d3-a8bb-182daf9fd8f1" />
 
-_Screenshots coming soon._
+
 
 ## 🛠️ Tech Stack
 
