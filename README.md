@@ -149,6 +149,6 @@ bun run build
 
 <div align="center">
 
-Made with ❤️ by the HR Management team
+Made with ❤️ by our team
 
 </div>
