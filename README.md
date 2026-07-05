@@ -140,21 +140,10 @@ bun run build
 | `bun run build` | Build the app for production |
 | `bun run lint` | Run ESLint checks |
 
-> Script names may differ slightly — check the `scripts` field in `package.json` to confirm.
 
-## 🤝 Contributing
 
-Contributions are welcome!
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit your changes: `git commit -m "Add amazing feature"`
-4. Push to the branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
